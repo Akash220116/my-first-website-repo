@@ -1,0 +1,7 @@
+nav fieldset div{
+    display:inline;
+    
+}
+nav fieldset div:hover{
+    color: aqua;
+}
